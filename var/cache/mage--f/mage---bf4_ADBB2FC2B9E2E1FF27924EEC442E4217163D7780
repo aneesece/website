@@ -1,0 +1,68 @@
+<footer>
+<article class="footer_article">
+<section cite="footer_first_section">
+<div class="footer-container">
+    <div class="footer container">
+<div class="row-fluid">
+<div class="span3">
+<h4>Information</h4>
+<ul>
+<li><a href="http://127.0.0.1/website/index.php/about-magento-demo-store?___SID=U">AboutUs</a></li>
+<li><a href="http://127.0.0.1/website/index.php/customer-service?___SID=U">CustomerService</a></li>
+<li><a href="http://127.0.0.1/website/index.php/privacy-policy?___SID=U">PrivacyPolicy</a></li>
+<li><a href="{{storedirect_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+<li><a href="http://127.0.0.1/website/index.php/%3ESearch Terms%3C/a%3E%3C/li%3E
+%3Cli%3E%3Ca href=?___SID=U">AdvancedSearch</a></li>
+<li><a href="http://127.0.0.1/website/index.php/sales/guest/form?___SID=U">Orders &amp;Returns</a></li>
+<li><a href="http://127.0.0.1/website/index.php/contacts?___SID=U">Contact Us</a></li>
+</ul>
+</div>
+<div class="span3">
+<h4>Why Buy From Us</h4>
+<ul>
+<li><a href="http://127.0.0.1/website/index.php/customer-service?___SID=U">Shipping &amp;Returns</a></li>
+<li><a href="http://127.0.0.1/website/index.php/customer-service?___SID=U">SecureShopping</a></li>
+<li><a href="{{store direct_url=">International Shipping</a></li>
+<li><a href="http://127.0.0.1/website/index.php/customer-service?___SID=U">Affiliates</a></li>
+<li><a href="http://127.0.0.1/website/index.php/customer-service?___SID=U">GroupSales</a></li>
+</ul>
+</div>
+<div class="span2">
+<h4>My Account</h4>
+<ul>
+<li><a href="http://127.0.0.1/website/index.php/customer/account?___SID=U">MyAccount</a></li>
+<li><a href="http://127.0.0.1/website/index.php/checkout/cart/?___SID=U">View Cart</a></li>
+<li><a href="http://127.0.0.1/website/index.php/wishlist?___SID=U">My Wishlist</a></li>
+<li><a href="http://127.0.0.1/website/index.php/sales/order/history?___SID=U">Track MyOrder</a></li>
+<li><a href="http://127.0.0.1/website/index.php/customer-service?___SID=U">Help</a></li>
+</ul>
+</div>
+<div class="quick_contact span4">
+<h4>Contacts</h4>
+<ul>
+<li class="mar_bot"><a>8901 Marmora Road, Glasgow, D0489GR</a></li>
+<li class="mar_bot phone_no"><a>Tel:1(234) 567-8902</a></li>
+<li class="share"><a class="facebook" href="#">facebook</a>twitter<a class="in" href="#">in</a>g+<a class="rss" href="#">rss</a></li>
+</ul>
+</div>        </div>
+    </div>
+</div>
+
+<div class="footer_bottom_con">
+<div class="footer container">
+        <address class="span4">&copy; 2014 Magento Demo Store. All Rights Reserved.</address>
+<div class="span3">
+</div>
+<div class="share_links span3">
+<ul><li><a href="#"><img src="http://127.0.0.1/website/media/home_interior/visa.png"alt="visa" /></a></li>
+<li><a href="#"><img src="http://127.0.0.1/website/media/home_interior/mastro.png"alt="mastro" /></a></li>
+<li><a href="#"><img src="http://127.0.0.1/website/media/home_interior/paypal.png"alt="paypal" /></a></li>
+<li><a href="#"><img src="{{mediaurl="home_interior/american_express.png"}}"alt="american_express" /></a></li>
+<li><a href="#"><img src="http://127.0.0.1/website/media/home_interior/cirrus.png"alt="cirrus" /></a></li></ul> 
+</div>
+<p style="clear: both; line-height: 10px; margin-top: 5px; text-align: right; color: rgb(255, 255, 255); text-transform: capitalize;" class="poweredby">Designed by <a style="display: inline; color: rgb(235, 86, 155); text-transform: capitalize;" href="http://bsetec.com" target="_blank" title="BseTec Themes" class="bsetec">BseTec Themes</a> | Powered by <a style="display: inline; color: rgb(239, 59, 41); text-transform: capitalize;" href="http://magentocommerce.com" target="_blank" title="Magento" class="magento">Magento</a></p>
+</div>
+</div>
+</section>
+</article>
+</footer>

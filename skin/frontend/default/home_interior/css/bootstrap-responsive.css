@@ -210,7 +210,7 @@
     float: left;
     width: 100%;
     min-height: 30px;
-    margin-left: 2.564102564102564%;
+    margin-left: 0.564102564102564%;
     *margin-left: 2.5109110747408616%;
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
@@ -236,7 +236,9 @@
   }
   .row-fluid .span9 {
     width: 74.35897435897436%;
+	float:right;
     *width: 74.30578286961266%;
+	
   }
   .row-fluid .span8 {
     width: 65.81196581196582%;
@@ -260,7 +262,9 @@
   }
   .row-fluid .span3 {
     width: 23.076923076923077%;
+	float:left;
     *width: 23.023731587561375%;
+	
   }
   .row-fluid .span2 {
     width: 14.52991452991453%;

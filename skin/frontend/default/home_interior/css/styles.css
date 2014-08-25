@@ -529,11 +529,11 @@ tr.summary-details-excluded { font-style:italic; }
 .header .quick-access { float:right;padding:10px 0px 0 0; }
 .header .welcome-msg { clear: both;padding: 10px 0 0;margin:0; color:#333; text-align:right; }
 .header .welcome-msg a { color:#ebbc58; }
-.header .form-search {width:280px; height:auto; paddin:0px 0 0 0px;border: 1px solid #D8D8D8;}
+.header .form-search {width:285px; height:auto; paddin:0px 0 0 0px;border: 1px solid #D8D8D8;}
 .header .form-search label { float:left; width:24px; height:21px; text-align:left; text-indent:-999em; overflow:hidden;display:none; }
-.header .form-search input.input-text { float:left; border:none; width:250px; margin:1px 3px 1px 1px;height: auto;font:12px Verdana;padding:2px;box-shadow:none;color: #8F8F8F;}
+.header .form-search input.input-text { float:left; border:none; width:250px; margin:3px 3px 1px 1px;height: auto;font:12px Verdana;padding:2px;box-shadow:none;color: #8F8F8F;}
 .header .form-search button.button { float:left; }
-.header .form-search button.button span { border:0; height:21px; background:url(../images/home_interior/search_btn.png) center center no-repeat #3E9C85; padding:0 0 0 0px; font:bold 0px/21px Tahoma, Verdana, Arial, sans-serif;width:20px;height:20px;margin: 1px; }
+.header .form-search button.button span { border:0; height:21px; background:url(../images/home_interior/search_btn.png) center center no-repeat #9E1A3F; padding:0 0 0 0px; font:bold 0px/21px Tahoma, Verdana, Arial, sans-serif;width:24px;height:25px;margin: 1px; }
 .header .form-search button.button span span { background:none; padding:0 0px 0 0px; }
 .header .form-search .search-autocomplete { z-index:999; left:40px !important; top:22px !important; }
 .header .form-search .search-autocomplete ul { border:1px solid #5c7989; background-color:#f9f5f0; }

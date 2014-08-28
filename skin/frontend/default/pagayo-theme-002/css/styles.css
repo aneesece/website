@@ -426,12 +426,12 @@ button.button {
 	-webkit-border-fit: lines;
 	overflow: visible;
 	cursor: pointer;
-	height: 26px !important;
+	height: 28px !important;
 	width: auto;
 	margin: 0;
 	padding: 0 6px; 
-	background-color: #3f3833;
-	border: 1px solid #3f3833;
+	background-color: #9e1a3f;
+	border: 1px solid #9e1a3f;
 	font: bold 12px/24px Arial, Helvetica, sans-serif;
 	text-align: center;
 	color: #fff;
@@ -442,10 +442,11 @@ button.button {
 }
 
 button.button:hover {
-	border-color: #3f3833;
-	background-color: #70645b;
+	border-color: #7e1a3f;
+	background-color: #7e1a3f;
 	color: #fff;
 	outline: 0;
+	box-shadow:0 0 6px #ccc
 }
 
 button.button span {
@@ -2545,14 +2546,14 @@ a.link-cart{
 .products-grid .btn-cart,
 .products-grid .btn-cart:hover {
 	cursor: pointer;
-	border: 1px solid #f56e24;
+	border: 1px solid #9e1a3f;
 	font: bold 11px/25px Arial, Helvetica, sans-serif;
 	color: #fff;
 	height: 25px;
 	background: #f56e24;
-	background-image: -moz-linear-gradient(top,#ff923e,#f56e24);
-	background-image: -webkit-gradient(linear,left top,left bottom,from(#ff923e),to(#f56e24));
-	filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ff923e,endColorStr=#f56e24);
+	background-image: -moz-linear-gradient(top,#ce1a3f,#9e1a3f);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#ce1a3f),to(#9e1a3f));
+	filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ce1a3f,endColorStr=#9e1a3f);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ff923e, endColorStr=#f56e24)"; 
 	text-transform: uppercase; 
 	padding-right: 12px; 
@@ -3117,15 +3118,15 @@ a.minimal-price-link .label{
 	float: left;
 	padding: 0 16px;
 	cursor: pointer;
-	border: 1px solid #f56e24;
+	border: 1px solid #9e1a3f;
 	font: bold 15px/34px Arial, Helvetica, sans-serif;
 	color: #fff;
 	height: 34px !important;
 	text-transform: uppercase;
-	background: #f56e24;
-	background-image: -moz-linear-gradient(top,#ff923e,#f56e24);
-	background-image: -webkit-gradient(linear,left top,left bottom,from(#ff923e),to(#f56e24));
-	filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ff923e,endColorStr=#f56e24);
+	background: #9e1a3f;
+	background-image: -moz-linear-gradient(top,#ce1a3f,#9e1a3f);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#ce1a3f),to(#9e1a3f));
+	filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ce1a3f,endColorStr=#9e1a3f);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ff923e, endColorStr=#f56e24)";
 }
 
@@ -3855,15 +3856,15 @@ a.minimal-price-link .label{
 .checkout-types button.button:hover {
 	padding: 0 16px;
 	cursor: pointer;
-	border: 1px solid #f56e24;
+	border: 1px solid #9e1a3f;
 	font: bold 15px/34px Arial, Helvetica, sans-serif;
 	color: #fff;
 	height: 34px !important;
 	text-transform: uppercase;
-	background: #f56e24;
-	background-image: -moz-linear-gradient(top,#ff923e,#f56e24);
-	background-image: -webkit-gradient(linear,left top,left bottom,from(#ff923e),to(#f56e24));
-	filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ff923e,endColorStr=#f56e24);
+	background: #9e1a3f;
+	background-image: -moz-linear-gradient(top,#ce1a3f,#9e1a3f);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#ce1a3f),to(#9e1a3f));
+	filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ce1a3f,endColorStr=#9e1a3f);
 	-ms-filter: "progid:DXImageTransform.Microsoft.Gradient(startColorStr=#ff923e, endColorStr=#f56e24)";
 }
 
